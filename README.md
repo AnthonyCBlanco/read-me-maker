@@ -12,7 +12,7 @@
     https://opensource.org/licenses/MIT License
     undefined
   ## Contribution
-    undefined
+    If You wish to contribute please clone the repo, make the changes and create a pull request wiht details of what was changed
   ## Tests
     N/A
   ## Questions
