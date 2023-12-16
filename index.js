@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type:'list',
-        choices:['MIT License', 'Apache License 2.0', 'ISC License'],
+        choices:['MIT', 'ApacheLicense2.0', 'ISCLicense'],
         message:'Please Chose A License',
         name:'license'
     },

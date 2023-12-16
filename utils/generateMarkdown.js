@@ -2,7 +2,7 @@ const fs = require('fs')
 function renderLicenseBadge(license) {
   if(!license){return ''}
   else{
-    const licenseBadge=`[![License](https://img.shields.io/badge/License-${license}-blue.svg)]`
+    const licenseBadge=`[![License: ${license}](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${license})`
     return licenseBadge
   }
 }
