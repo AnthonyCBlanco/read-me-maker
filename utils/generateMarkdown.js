@@ -28,11 +28,27 @@ function renderLicenseSection(license) {
     return licenseSection
   }
 }
-renderLicenseSection('mit')
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ## Description
 
+  ## Table Of Contents
+
+  ## Installation
+
+  ## Usage
+
+  ## License ${renderLicenseBadge}
+  ${renderLicenseLink}
+  ${renderLicenseSection}
+
+  ## Contribution
+
+  ## Tests
+
+  ## Questions
 `;
 }
 
