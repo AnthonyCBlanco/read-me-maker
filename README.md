@@ -13,7 +13,7 @@
   ## Usage
     Run The index.js in the command line using node.js and fill out the prompts
   ## License 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://     opensource.org/licenses/MIT)
     https://opensource.org/licenses/MIT
    
   ## Contribution
